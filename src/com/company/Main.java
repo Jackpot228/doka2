@@ -102,4 +102,5 @@ public class Main extends JPanel{
             g.fillRect(x,y,54,64);
         }
     }
+
 }
